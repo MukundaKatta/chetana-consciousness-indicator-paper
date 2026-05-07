@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="180" viewBox="0 0 920 180" role="img" aria-label="Chetana scoring workflow">
+  <rect width="920" height="180" fill="#f8fafc"/>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="15" fill="#17324d">
+    <rect x="25" y="55" width="135" height="70" rx="8" fill="#e8f0fb" stroke="#8aa4c1"/>
+    <text x="92" y="86" text-anchor="middle">Theory-indexed</text><text x="92" y="106" text-anchor="middle">indicators</text>
+    <rect x="195" y="55" width="135" height="70" rx="8" fill="#fff4e5" stroke="#c99a54"/>
+    <text x="262" y="86" text-anchor="middle">Probe</text><text x="262" y="106" text-anchor="middle">responses</text>
+    <rect x="365" y="55" width="135" height="70" rx="8" fill="#eef8ed" stroke="#7ba776"/>
+    <text x="432" y="86" text-anchor="middle">Indicator</text><text x="432" y="106" text-anchor="middle">scoring</text>
+    <rect x="535" y="55" width="135" height="70" rx="8" fill="#eef8ed" stroke="#7ba776"/>
+    <text x="602" y="86" text-anchor="middle">Theory</text><text x="602" y="106" text-anchor="middle">aggregation</text>
+    <rect x="705" y="55" width="170" height="70" rx="8" fill="#e8f0fb" stroke="#8aa4c1"/>
+    <text x="790" y="86" text-anchor="middle">Careful</text><text x="790" y="106" text-anchor="middle">interpretation report</text>
+  </g>
+  <g stroke="#57718c" stroke-width="2" fill="none">
+    <path d="M160 90h33"/><path d="M330 90h33"/><path d="M500 90h33"/><path d="M670 90h33"/>
+  </g>
+</svg>
+
